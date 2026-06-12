@@ -86,6 +86,22 @@ ai-document-agent/
 
 ### Initial Interface
 
+![Initial Interface](images/home_screen.png)
+
+---
+
+### PDF Processing
+
+![PDF Processing](images/pdf_processed.png)
+
+---
+
+### Question Answering with RAG
+
+![RAG Answer](images/rag_answer.png)
+
+### Initial Interface
+
 Upload and process PDF documents through a simple Streamlit interface.
 
 ### Document Processing
